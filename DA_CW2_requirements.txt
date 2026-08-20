@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+spacy
+contractions
+wordcloud
+
+# after installing, download the spaCy English model:
+# python -m spacy download en_core_web_sm
